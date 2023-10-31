@@ -1,7 +1,12 @@
-#4.0.2
+# 5.1.0
+* Added new method call ```getAbi``` to simplify for checking for ABI platform in case of using split apks
+# 5.0.0
+* Removed legacy support for android flutter v1 embedding
+# 4.0.3
+* Fixed permission error on Android 13 (TechGeekD)
+# 4.0.2
 * Fixed check for parent directory existence (thinktkj)
 * Correctly reporting error to upstram on download crash
-
 #4.0.1
 * Fixed remmant code after cleanup for version 4.0.0
 #4.0.0
